@@ -1,5 +1,6 @@
 from scrapy.spider import Spider
 from scrapy.selector import Selector
+from glassdoor_scraper.items import GlassdoorItem
 
 class GlassdoorSpider(Spider):
   name = "glassdoor"
@@ -18,7 +19,11 @@ class GlassdoorSpider(Spider):
     items = []
 
     for site in sites:
-      title = site.xpath('a/text()').extract()
-      link = site.xpath('a/@href').extract()
-      desc = site.xpath('text()').extract()
+      item = GlassdoorItem()
+      item['title'] = site.xpath('a/text()').extract()
+      item['link'] = site.xpath('a/@href').extract()
+      item['desc'] = site.xpath('text()').extract()
+      items.append(item)
+
+    return items
 
