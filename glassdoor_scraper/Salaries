@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+
+<html lang='en' xmlns:fb='http://www.facebook.com/2008/fbml' xmlns:og='http://opengraph.org/schema/'
+		class='fixed'>
+
+<head prefix='og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# glassdoor: http://ogp.me/ns/fb/glassdoor#'> <title>Data Engineer Salary | Glassdoor</title> <link rel='shortcut icon' href='/favicon.ico' type='image/vnd.microsoft.icon'/> <link rel='icon' href='/favicon.ico' type='image/x-icon'/> <meta name='viewport' content='width=device-width'/> <meta name='apple-mobile-web-app-capable' content='yes'/> <meta name='apple-mobile-web-app-status-bar-style' content='black'> <link rel='apple-touch-icon-precomposed' href='http://static.glassdoor.com/static/img/mobile/icons/touch-icon-57.png?v=a426129v'/> <link rel='apple-touch-icon-precomposed' sizes='72x72' href='http://static.glassdoor.com/static/img/mobile/icons/touch-icon-72.png?v=beec73ap'/> <link rel='apple-touch-icon-precomposed' sizes='114x114' href='http://static.glassdoor.com/static/img/mobile/icons/touch-icon-114.png?v=441408e7'/> <link rel='apple-touch-icon-precomposed' sizes='144x144' href='http://static.glassdoor.com/static/img/mobile/icons/touch-icon-144.png?v=7e3f53hc'/> <link href='http://static.glassdoor.com/static/css/gd-core.css?v=e70c089khz' rel='stylesheet' type='text/css' media='all'/> <script>
+	window.GD = window.GD || {};
+	GD.pageInfo = window.GD || {};
+
+	GD.isFlex = false;
+
+	GD.isMobile = false;
+	GD.isMobileDevice = false;
+
+	GD.requestDomain = "glassdoor.com";
+	GD.userIP = "161.181.253.20";
+
+	GD.pageInfo.section = "Search:Salaries";
+	GD.pageInfo.guid ='00000146ba4c6bb5890c21d29d7b598e'
+
+	GD.pageInfo.pageGroup = "Search-Salaries";
+
+	GD.fb = GD.fb || {};
+	GD.fb.requestedPerms = "email,user_location,friends_location,user_birthday,friends_birthday,user_education_history,friends_education_history,user_work_history,friends_work_history";
+
+	GD.rumKey = 'HAMGR-VZ7AR-KZ48V-CY9KZ-LM2WJ';
+</script> <script src='//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script> <script>
+		if (!window.jQuery) {
+		    document.write('<script src="http://static.glassdoor.com/static/js/jQuery/jquery-1.10.2.min.js?v=110655"><\/script>');
+		}
+	</script> <script src='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js'></script> <script>
+		if (!window.jQuery.ui) {
+		    document.write('<script src="http://static.glassdoor.com/static/js/jQuery/jquery-ui-1.10.2.min.js?v=110655"><\/script>');
+		}
+	</script> <script src='http://static.glassdoor.com/static/js/gd-rum.js?v=3b195fi2'></script> <script src='http://static.glassdoor.com/static/js/gd-core.js?v=803973ax5l'></script> <script data-desc='botWhitelister.jspf'>
+		/* <![CDATA[ */
+			GD.runAfterBody(function() {
+				var serverToken = '5da4d365-5d06-437d-ad75-9d118a496651';
+				GD.util.sendWLToken(serverToken);
+			});
+		/* ]]> */
+	</script> <script>
+	GD.dom.loadScript("//cdn.optimizely.com/js/200053012.js");
+</script> <script>
+		/* <![CDATA[ */
+			GD.runAfterBody(function() {
+			
+				adroll_adv_id = "UHTYLV6APJBAREEHGMJYXJ";
+				adroll_pix_id = "ETX7GD4DFZFVREUYC2AJK3";
+				(function () {
+					var oldonload = window.onload;
+					window.onload = function() {
+					   __adroll_loaded=true;
+					   var scr = document.createElement("script");
+					   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+					   scr.setAttribute('async', 'true');
+					   scr.type = "text/javascript";
+					   scr.src = host + "/j/roundtrip.js";
+					   ((document.getElementsByTagName('head') || [null])[0] ||
+					    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+					   if(oldonload){oldonload()}
+					};
+				}());
+			
+			});
+		/* ]]> */
+	</script> <link rel="next" href="http://www.glassdoor.com/Salaries/data-engineer-salaries-SRCH_KO0,13_IP2.htm"/><!--[if lt IE 10]><script src='http://static.glassdoor.com/static/js/gd-placeholder.js?v=d8626323b'></script><![endif]--> <!--[if lt IE 9]><script src='http://static.glassdoor.com/static/js/gd-object-keys.js?v=c201c12u'></script><![endif]--> <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]--> <meta name="description" content="Average Data Engineer Salary is $91,167. A free inside look at 1,214 Data Engineer salary reports posted anonymously by employees."/> <!-- SL:start:norewrite --> <link rel='canonical' href="http://www.glassdoor.com/Salaries/data-engineer-salary-SRCH_KO0,13.htm"/> <!-- SL:end:norewrite --> <!-- SL:start:norewrite --> <link rel='alternate' hreflang='en-US' href='http://www.glassdoor.com/Salaries/data-engineer-salary-SRCH_KO0,13.htm'/> <!-- SL:end:norewrite --> <!-- SL:start:norewrite --> <link rel='alternate' hreflang='en-AU' href='http://www.glassdoor.com.au/Salaries/data-engineer-salary-SRCH_KO0,13.htm'/> <!-- SL:end:norewrite --> <!-- SL:start:norewrite --> <link rel='alternate' hreflang='en-CA' href='http://www.glassdoor.ca/Salaries/data-engineer-salary-SRCH_KO0,13.htm'/> <!-- SL:end:norewrite --> <!-- SL:start:norewrite --> <link rel='alternate' hreflang='en-IN' href='http://www.glassdoor.co.in/Salaries/data-engineer-salary-SRCH_KO0,13.htm'/> <!-- SL:end:norewrite --> <!-- SL:start:norewrite --> <link rel='alternate' hreflang='en-GB' href='http://www.glassdoor.co.uk/Salaries/data-engineer-salary-SRCH_KO0,13.htm'/> <!-- SL:end:norewrite --> <meta http-equiv='Cache-Control' content='no-cache,must-revalidate'/> <meta http-equiv='Pragma' content='no-cache'/> <meta http-equiv="Expires" content="0"/> <meta property='og:title' content="Data Engineer Salary"/> <meta property='og:type' content="website"/> <meta property='og:site_name' content='Glassdoor'/> <meta property='fb:app_id' content="129253937150340"/> <meta property='og:url' content='http://www.glassdoor.com/Salaries/data-engineer-salary-SRCH_KO0,13.htm'/> <meta property='og:image' content='http://static.glassdoor.com/static/img/partners/fb/logo-130.png?v=c6d16d3eh'/> <meta property='og:description' content="Average Data Engineer Salary is $91,167. A free inside look at 1,214 Data Engineer salary reports posted anonymously by employees."/> <meta property='og:title' content="Data Engineer Salary"/> <meta property='og:type' content="website"/> <meta property='og:site_name' content='Glassdoor'/> <meta property='fb:app_id' content="129253937150340"/> <meta property='og:url' content='http://www.glassdoor.com/Salaries/data-engineer-salary-SRCH_KO0,13.htm'/> <meta property='og:image' content='http://static.glassdoor.com/static/img/partners/fb/logo-130.png?v=c6d16d3eh'/> <meta property='og:description' content="Average Data Engineer Salary is $91,167. A free inside look at 1,214 Data Engineer salary reports posted anonymously by employees."/> <script data-desc='adManager.jspf (part 1)'>
+			/* <![CDATA[ */
+			$(function() {
+					if (GD.ads && (typeof GD.ads.load === 'function')) {
+						GD.ads.load(null, '', '00000146ba4c6bb5890c21d29d7b598e',
+									'');
+					}
+				});
+			/* ]]> */
+		</script> <script>
+		/* <![CDATA[ */
+		window.googletag = window.googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		/* ]]> */
+	</script> <script data-desc='adManager.jspf (part 2)'>
+		/* <![CDATA[ */
+		GD.dom.loadScript(document.location.protocol + "//www.googletagservices.com/tag/js/gpt.js");
+
+		
+		function getGoogleAttrTargeting(adName) {
+
+			var		adTargetSpecs; // C=DH&TC=75P
+
+			adTargetSpecs = 'type=ad;name=' + adName+ ';';
+
+			if (window._GA_googleAdData && window._GA_googleAdData.B) {
+				for (var key in window._GA_googleAdData.B) {
+					adTargetSpecs += (key + '=' + window._GA_googleAdData.B[key] + ';');
+				}
+			}
+			return adTargetSpecs;
+		}
+
+		googletag.cmd.push(function() {
+				
+						googletag.defineSlot('/1060761/search-salaries_300x250_right',
+								[300, 250], 'div-AdSlot-hwnrlpkh')
+								.addService(googletag.pubads());
+						Logger.warn('defined ad slot search-salaries_300x250_right with ID div-AdSlot-hwnrlpkh');
+					
+						googletag.defineSlot('/1060761/search-salaries_300x250_right_bf',
+								[300, 250], 'div-AdSlot-hwnrlpki')
+								.addService(googletag.pubads());
+						Logger.warn('defined ad slot search-salaries_300x250_right_bf with ID div-AdSlot-hwnrlpki');
+					
+						googletag.defineSlot('/1060761/search-salaries_728x90_top',
+								[728, 90], 'div-AdSlot-TL')
+								.addService(googletag.pubads());
+						Logger.warn('defined ad slot search-salaries_728x90_top with ID div-AdSlot-TL');
+					
+				GD.ads.getTargetingSegments(false, false);
+				Logger.warn('GD.ads.getTargetingSegments() called');
+
+				googletag.pubads().collapseEmptyDivs();
+				/*
+				 * Note that single-request mode is currently not compatible with spotlight ads
+				 */
+				// googletag.pubads().enableSingleRequest();
+				googletag.enableServices();
+
+				if (GD.ads && GD.ads.flexSlots && GD.ads.flexSlots.length) {
+					/*
+					 * Trigger a snap.
+					 */
+					GD.flex.triggerFlex();
+				}
+
+				Logger.warn('finished defining ads');
+			});
+		/* ]]> */
+	</script> <meta name="apple-itunes-app" content="app-id=589698942"> <meta name="apple-itunes-app-beta" content="app-id=589698942"> <meta name="google-play-app" content="app-id=com.glassdoor.app"></head> <body class='main fixed ' marginwidth='0' marginheight='0' style='margin:0;' data-locale='en-US'> <script>
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "18019367" });
+	(function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+</script> <noscript> <img src="http://b.scorecardresearch.com/p?c1=2&c2=18019367&cv=2.0&cj=1"/> </noscript> <script>
+		/* <![CDATA[ */
+		window.googleId = 'UA-2595786-1';
+
+		var 	_gaq = _gaq || [];
+		var	webAnalyticsPageURL = "/search/salaries?cat=Salaries&o=Data+Engineer";
+		/* ]]> */
+	</script> <script>
+		/* <![CDATA[ */
+		_gaq.push(['_setAccount', 'UA-2595786-1']);
+
+		
+			_gaq.push(['_setDomainName', 'www.glassdoor.com']);
+		
+
+		_gaq.push(['_setCampaignCookieTimeout', 31536000]);
+
+		
+		_gaq.push(['_setCampSourceKey', 'utm_source']);
+		_gaq.push(['_setCampMediumKey', 'utm_medium']);
+		_gaq.push(['_setCampContentKey', 'utm_content']);
+		_gaq.push(['_setCampTermKey', 'utm_term']);
+		_gaq.push(['_setCampNameKey', 'utm_campaign']);
+
+		GD.dom.loadScript(('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js', function () {
+
+			
+			$(function() {
+				GD.ga.sendDeferredEvents();
+				GD.ga.setDeferredTrackingVars();
+			});
+
+		
+
+		$(function () {
+			GD.ga.setTrackingVar(11,	// Variable slot
+								'User Reg Month',				// The name acts as a kind of category for the user activity.
+								'unknown',		 			// This value of the custom variable.
+								3);
+
+			});
+
+		
+
+			$(function() {
+				
+				// GD.ga.setDomainName('none'); // Occasionally needed 'reset' GA debug Chrome extension locally
+				GD.ga._trackPageView(webAnalyticsPageURL);
+			})
+		});
+		/* ]]> */
+	</script> <div id='PageTop' class='gradient'> <nav> <ul> <li class='logo'> <a href='/index.htm' target='_top' tabindex='-1'> <i></i></a> </li> <li class='jobs tab gradient'> <a href='/Jobs/jobs.htm' class='gradient' target='_top' data-search-url='/Job/jobs.htm'><span>Jobs</span></a> </li> <li class='reviews tab gradient'> <a href='/Reviews/index.htm' class='gradient' target='_top' data-search-url='/GD/Reviews/company-reviews.htm'><span>Companies</span></a> </li> <li class='salaries tab active gradient'> <a href='/Salaries/index.htm' class='gradient' target='_top' data-search-url='/GD/Salaries/company-salaries.htm'><span>Salaries</span></a> </li> <li class='interviews tab gradient'> <a href='/Interview/index.htm' class='gradient' target='_top' data-search-url='/GD/Interview/job-interview-questions.htm'><span>Interviews</span></a> </li> <li class='upsell hideMob'> <a href='/survey/start_input.htm?contentOriginHook=PAGE_HEADER_NAV&showSurvey=REVIEWS' target='_top' class='hilite hideHH' rel='nofollow'> <span>Write a Review</span></a> </li> </ul> <div class='actions'> <span>&nbsp;</span> <span class='employers menuLink'> Employers <i class='arrow'></i> </span> <a href='/apps.htm' target='_top' rel='nofollow'>Mobile</a> <a rel='nofollow' class='signin'>Sign In</a> </div> </nav> </div> <div class='clear'></div> <div id='EmployersMenu' class='hdrDropdown selectboxit-container'> <ul class='selectboxit-options selectboxit-list hidden' tabindex='-1'> <li class='selectboxit-option' role='option'> <a href='/partners/account/create.htm?source=employermenu' rel='nofollow' class='selectboxit-option-anchor' target='_blank' data-ga-lbl='get-free-emp-acct'>Get Free Employer Account</a> </li> <li class='selectboxit-option' role='option'> <a href='/partners/index.htm' rel='nofollow' class='selectboxit-option-anchor' target='_blank' data-ga-lbl='get-free-emp-acct'>Sign In to Employer Center</a> </li> <li class='selectboxit-option' role='option'> <a href='/partners/post-a-job/index.htm?src=gdemphead' rel='nofollow' class='selectboxit-option-anchor' target='_blank' data-ga-lbl='post-a-job'>Post a Job for Free</a> </li> <li class='selectboxit-option' role='option'> <a href='http://employers.glassdoor.com' rel='nofollow' class='selectboxit-option-anchor SL_norewrite' target='_blank' data-ga-lbl='talent-solutions'>Solutions for Employers</a> </li> <li class='selectboxit-option' role='option'> <a href='http://employers.glassdoor.com/blog' rel='nofollow' class='selectboxit-option-anchor SL_norewrite' target='_blank' data-ga-lbl='employer-blog'>Employer Blog</a> </li> </ul> </div> <script data-desc='menuEmployers.jspf'>
+	/* <![CDATA[ */
+	GD.runAfterBody( function() {
+		GD.site.initDropdown($('#PageTop span.employers.menuLink'), $('#EmployersMenu'));
+	});
+	/* ]]> */
+</script> <div id='SiteSrchTop' class='siteSrchBar hideHH bar'> <form action='/GD/Salaries/company-salaries.htm' method='get' target='_top' class='siteSrchForm' data-allow-postal-codes='false' data-pick-best-match='true'> <input type='hidden' name='suggestCount' class='suggestCount' value='0'/> <input type='hidden' name='suggestChosen' class='suggestChosen' value='false'/> <input type='hidden' name='clickSource' value='searchBtn'/> <input type='hidden' name='typedKeyword' class='typedKey' value=""/> <span class='bkgnd gradient contents'> <div class='selWrapper arrow'> <select id='SrchSelectTop' class='url std select gradient med'> <option value='/Job/jobs.htm' data-placeholder='Job Title, Keywords, or Company' data-zipcodes-ok='true' data-subtitle=""> Jobs</option> <option value='/GD/Reviews/company-reviews.htm' data-placeholder='Company Name' data-zipcodes-ok='false' data-subtitle=""> Companies</option> <option value='/GD/Salaries/company-salaries.htm' selected='selected' data-placeholder='Job Title or Company' data-zipcodes-ok='false' data-subtitle=""> Salaries</option> <option value='/GD/Interview/job-interview-questions.htm' data-placeholder='Job Title or Company' data-zipcodes-ok='false' data-subtitle=""> Interviews</option> </select> </div> <input type='text' class='std keyword med gradient' name='sc.keyword' value='data engineer' placeholder='Job Title or Company' autofocus='autofocus'/> <span class='locPosPt posPt'></span> <input type='text' value='' data-srch-type='popular' class='std loc med gradient' placeholder='Location'/> <input type='hidden' class='locType' name='locT' value=''/> <input type='hidden' class='locId' name='locId' value=''/> <button type='submit' data-btn-id='' class=' gd-btn gd-btn-submit gd-btn-2 gd-btn-med gradient'> <span>Search</span></button> <div class='advPosPt posPt margLt10 hideMob'> <div class='siteSrchAdvLink'> <span class='link advancedSearchLink'> Advanced </span> </div> </div> </span> </form> </div> <script data-desc='siteSrch.jspf'>
+			/* <![CDATA[ */
+			$(function() {
+				
+				
+					GD.site.initSrchAC("SALARY");
+				
+
+				GD.site.initSiteSearch(null, false, true);
+			});
+			/* ]]> */
+		</script> <script>
+	/* <![CDATA[ */
+	GD.runAfterBody(function () {
+		
+		
+			
+				$('body').jobAlertSplash({
+					name: 'jobAlertSplash',
+					type: 'splash',
+					template: 'jobAlertDlgEditable',
+					gaLabel: 'salarysrch',
+					source: 'SALARY_SRCH',
+					oneClickTitles: true,
+					localStorage: {
+						enabled		:	true,
+						name		:	'searchSalary'
+					}
+				});
+			
+			
+	});
+	/* ]]> */
+</script> <script>
+	/* <![CDATA[ */
+	$(document).keyup(function(e) {
+		if (e.keyCode == 27) { //Escape key
+			GD.userAlert.closePopup();
+		}
+	});
+	/* ]]> */
+</script><div id='UserAlertBarSubstitute'> </div> <div class='pageContentWrapper '> <div id='PageContent'> <div id='PageBodyContents' class='meat'> <div class='pageInsideContent cf'> <div id='EI-Srch'> <div id='SearchResults'> <div id='SalarySearchResults' class='container-2-col'> <div id='MainCol' class='mainCol'> <div id='AfsInfo' class='hidden' data-search-terms="Data Engineer" data-channel='0641790025+0102551731' data-test-mode='false' data-pub-id='pub-4602098854390349'></div> <div id='SocialSharingBtns' class='floating offScreen unloaded'> <div class='contents'> <div class='twitterFacade facade'></div> <div class='fbLikeFacade facade'></div> <div class='linkedInFacade facade'></div> <div class='gPlusFacade facade'></div> <div class='twitterButton'> <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.glassdoor.com/Salaries/data-engineer-salary-SRCH_KO0,13.htm" data-dnt="true" data-count="horizontal" data-lang="en-US">Tweet</a> </div> <div class='fbLikeButton'> <fb:like href='http://www.glassdoor.com/Salaries/data-engineer-salary-SRCH_KO0,13.htm' layout='button_count' show_faces='false' font='arial' data-share="false" send='true'></fb:like> </div> <div class='linkedInButton'> <script type="IN/Share" data-counter="right" data-url="http://www.glassdoor.com/Salaries/data-engineer-salary-SRCH_KO0,13.htm" data-onsuccess='linkedInCallbackGA'></script> </div> <div class='gPlusButton'> <g:plusone size="standard" href='http://www.glassdoor.com/Salaries/data-engineer-salary-SRCH_KO0,13.htm' gPlusCallbackGA></g:plusone> </div> </div> </div> <script data-desc='socialSharingBtns.tag (2)'>
+				GD.runAfterBody(function() {
+					GD.socialSharing.init();
+				});
+			</script> <h1 class='padTop10'>Data Engineer Salaries</h1> <div id='HeaderFootnote' class='small'> Updated <span class='SL_date' sl_dtfmt="%b %d, %Y" sl_dtfmt_target="dayMonShort"> Jun 6, 2014</span> &ndash; Salaries posted anonymously by employees and employers </div> <div class='clear'></div> <div class='occMediansCap'></div> <div class='occMedians boxed gradient'> <div class='salaryChart medianSalaryChart'> <table id='OccMedianSalaryChart' class='memberChart'> <tr class='header'> <td class='occ' style='width:200px;'><span class='minor'>Salaries in <tt class='i-cur'>USD</tt></span></td> <td class='mean' style='width: 120px;'><span class='minor'>Median</span></td> <td class='ticks' style='width: 280px;'><span class='minor'>Low to High <span class='contextHelpLink'>[<span href='#MedianSalariesHelpText' helpWidth='200' constrainId='#PageContent'>?</span>]</span></span></td> </tr> <tr class='dataRow first'> <td class='occ'><p><tt class='notranslate'>Seattle, WA Area</tt></p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$96,206</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 280px;'> <div class='barWrapper'> <div class='bar' style='left:151px;width:84px'> <div class='lowValue'><span class='minor notranslate'>$90k</span></div> <div class='highValue'><span class='minor notranslate'>$110k</span></div> <div class='meanValue' style='left:25px'></div> </div></div> </div> </td> </tr> <tr class='dataRow'> <td class='occ'><p>National</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$91,167</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 280px;'> <div class='barWrapper'> <div class='bar' style='left:45px;width:190px'> <div class='lowValue'><span class='minor notranslate'>$65k</span></div> <div class='highValue'><span class='minor notranslate'>$110k</span></div> <div class='meanValue' style='left:110px'></div> </div></div> </div> </td> </tr> </table> </div> </div> <div id='MedianSalariesHelpText' class='hidden'> For this job title: <ul> <li>Low = 10th percentile</li> <li>High = 90th percentile</li> </ul> </div> <script>
+	$(function() {
+					GD.aug.initContextHelp();
+				 });
+</script> <div class="tightTop"> <div class='sortBar'> <table> <tr> <td> <strong> <tt class='notranslate'>1,214</tt>&#32; Salaries</strong>: <strong><tt class='notranslate'>1</tt></strong>&ndash;<strong><tt class='notranslate'>20</tt></strong> of <strong><tt class='notranslate'>626</tt></strong> Job Titles</td> <td class='sortOptions SL_norewrite'> Sort by &nbsp; <select onchange='GD.srch.submitSearchSortChange(this);' id='SalarySearchSorts'> <option value='/Salaries/data-engineer-salary-SRCH_KO0,13_SDJR.htm' selected='selected'> Relevance (by Job Title)</option> <option value='/Salaries/data-engineer-salary-SRCH_KO0,13_SDMV.htm'> Relevance (by Company)</option> <option value='/Salaries/data-engineer-salary-SRCH_KO0,13_SDMC.htm'> # of Salaries</option> <option value='/Salaries/data-engineer-salary-SRCH_KO0,13_SDAS.htm'> Avg. Salary (high to low)</option> <option value='/Salaries/data-engineer-salary-SRCH_KO0,13_SAAS.htm'> Avg. Salary (low to high)</option> </select> </td> </tr> </table> <div class='clear'></div> </div> </div> <div class='salaryChart multiEmployer'> <table id='SalaryChart' class='memberChart'> <tr class='header'> <td class='occ' style='width:77860px;'><span class='minor'>Salaries in <tt class='i-cur'>USD</tt></span> &nbsp;<img src='http://static.glassdoor.com/static/img/flags/retina/US.png?v=1dd664z9' alt='United States' class='flag notranslate_alt'/></td> <td class='mean' style='width: 65px;'><span class='minor'>Avg. Salary</span></td> <td class='ticks' style='width: 285px;'><div class='relativeBar' style='width: 285px;'> <div class='tickMark' style='left:45px;'></div> <div class='tickVal' style='left:23px;'><span class='minor notranslate'>$40k</span></div><div class='tickMark' style='left:121px;'></div> <div class='tickVal' style='left:99px;'><span class='minor notranslate'>$90k</span></div><div class='tickMark' style='left:198px;'></div> <div class='tickVal' style='left:176px;'><span class='minor notranslate'>$140k</span></div></div></td> </tr> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/Amazon-com-Data-Engineer-Salaries-E6036_D_KO11,24.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/Amazon-com-Salaries-E6036.htm"><tt class='i-emp'>Amazon.com</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>57</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$100,493</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='bar' style='left:114px;width:61px'> <div class='lowValue'><span class='minor notranslate'>$85k</span></div> <div class='highValue'><span class='minor notranslate'>$125k</span></div> <div class='meanValue' style='left:23px'></div> </div></div> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/Hewlett-Packard-Data-Engineer-Salaries-E327_D_KO16,29.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/Hewlett-Packard-Salaries-E327.htm"><tt class='i-emp'>Hewlett-Packard</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>34</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$85,028</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='bar' style='left:89px;width:42px'> <div class='lowValue'><span class='minor notranslate'>$68k</span></div> <div class='highValue'><span class='minor notranslate'>$96k</span></div> <div class='meanValue' style='left:24px'></div> </div></div> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/HP-Enterprise-Services-Data-Engineer-Salaries-E712826_D_KO23,36.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/HP-Enterprise-Services-Salaries-E712826.htm"><tt class='i-emp'>HP Enterprise Services</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>17</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$79,984</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='bar' style='left:77px;width:60px'> <div class='lowValue'><span class='minor notranslate'>$61k</span></div> <div class='highValue'><span class='minor notranslate'>$100k</span></div> <div class='meanValue' style='left:28px'></div> </div></div> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/Facebook-Data-Engineer-Salaries-E40772_D_KO9,22.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/Facebook-Salaries-E40772.htm"><tt class='i-emp'>Facebook</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>9</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$103,269</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='bar' style='left:122px;width:76px'> <div class='lowValue'><span class='minor notranslate'>$90k</span></div> <div class='highValue'><span class='minor notranslate'>$140k</span></div> <div class='meanValue' style='left:19px'></div> </div></div> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/GD/Intern-Salary/Facebook-Internship-Salary-E40772.htm?filter.jobTitleFTS=Data+Engineer'><strong><tt class='i-occ'>Data Engineer Intern - Monthly</tt></strong></a> &ndash; <a href="/Salary/Facebook-Salaries-E40772.htm"><tt class='i-emp'>Facebook</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>3</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$5,733</tt>/mo</span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='bar' style='left:87px;width:7px'> <div class='lowValue'><span class='minor notranslate'>$5,600</span></div> <div class='highValue'><span class='minor notranslate'>$6,000</span></div> <div class='meanValue' style='left:1px'></div> </div></div> </div> </td> </tr> <tr class='salaryChartAdSlot'> <td colspan='3'> <div class='featuredJobsAdSlot adSlot-search-salaries-ungrouped-lf-main-top-holder'> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/Think-Big-Analytics-Data-Engineer-Salaries-E505284_D_KO20,33.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/Think-Big-Analytics-Salaries-E505284.htm"><tt class='i-emp'>Think Big Analytics</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>3</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$102,667</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='bar' style='left:122px;width:46px'> <div class='lowValue'><span class='minor notranslate'>$90k</span></div> <div class='highValue'><span class='minor notranslate'>$120k</span></div> <div class='meanValue' style='left:18px'></div> </div></div> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/Verizon-Data-Engineer-Salaries-E89_D_KO8,21.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/Verizon-Salaries-E89.htm"><tt class='i-emp'>Verizon</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>3</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$71,000</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='bar' style='left:88px;width:11px'> <div class='lowValue'><span class='minor notranslate'>$68k</span></div> <div class='highValue'><span class='minor notranslate'>$75k</span></div> <div class='meanValue' style='left:4px'></div> </div></div> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/Hewlett-Packard-GlobalSoft-Data-Engineer-Salaries-E434770_D_KO27,40.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/Hewlett-Packard-GlobalSoft-Salaries-E434770.htm"><tt class='i-emp'>Hewlett-Packard GlobalSoft</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>3</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$66,737</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='bar' style='left:84px;width:7px'> <div class='lowValue'><span class='minor notranslate'>$65k</span></div> <div class='highValue'><span class='minor notranslate'>$70k</span></div> <div class='meanValue' style='left:2px'></div> </div></div> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/MarkMonitor-Data-Engineer-Salaries-E20463_D_KO12,25.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/MarkMonitor-Salaries-E20463.htm"><tt class='i-emp'>MarkMonitor</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>3</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$75,553</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='bar' style='left:83px;width:25px'> <div class='lowValue'><span class='minor notranslate'>$65k</span></div> <div class='highValue'><span class='minor notranslate'>$82k</span></div> <div class='meanValue' style='left:15px'></div> </div></div> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/Affinion-Group-Data-Engineer-Salaries-E20415_D_KO15,28.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/Affinion-Group-Salaries-E20415.htm"><tt class='i-emp'>Affinion Group</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>2</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$76,420</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='fuzzed'><div class='bar' style='left:93px;width:15px'> <div class='lowValue'><span class='minor notranslate'>$71k</span></div> <div class='highValue'><span class='minor notranslate'>$81k</span></div> <div class='meanValue' style='left:7px'></div> </div></div></div> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/Geoservices-Data-Engineer-Salaries-E297617_D_KO12,25.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/Geoservices-Salaries-E297617.htm"><tt class='i-emp'>Geoservices</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>2</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$48,768</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='fuzzed'><div class='bar' style='left:45px;width:27px'> <div class='lowValue'><span class='minor notranslate'>$40k</span></div> <div class='highValue'><span class='minor notranslate'>$58k</span></div> <div class='meanValue' style='left:13px'></div> </div></div></div> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/FindTheBest-com-Data-Engineer-Salaries-E381822_D_KO16,29.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/FindTheBest-com-Salaries-E381822.htm"><tt class='i-emp'>FindTheBest.com</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>2</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$59,854</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='fuzzed'><div class='bar' style='left:72px;width:8px'> <div class='lowValue'><span class='minor notranslate'>$57k</span></div> <div class='highValue'><span class='minor notranslate'>$63k</span></div> <div class='meanValue' style='left:3px'></div> </div></div></div> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/Cloudera-Data-Engineer-Salaries-E360671_D_KO9,22.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/Cloudera-Salaries-E360671.htm"><tt class='i-emp'>Cloudera</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>2</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$150,882</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='fuzzed'><div class='bar' style='left:189px;width:51px'> <div class='lowValue'><span class='minor notranslate'>$134k</span></div> <div class='highValue'><span class='minor notranslate'>$167k</span></div> <div class='meanValue' style='left:24px'></div> </div></div></div> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/Mindspark-Interactive-Network-Data-Engineer-Salaries-E427738_D_KO30,43.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/Mindspark-Interactive-Network-Salaries-E427738.htm"><tt class='i-emp'>Mindspark Interactive Network</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>2</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$78,709</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='fuzzed'><div class='bar' style='left:82px;width:45px'> <div class='lowValue'><span class='minor notranslate'>$64k</span></div> <div class='highValue'><span class='minor notranslate'>$93k</span></div> <div class='meanValue' style='left:21px'></div> </div></div></div> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/Audible-Data-Engineer-Salaries-E9266_D_KO8,21.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/Audible-Salaries-E9266.htm"><tt class='i-emp'>Audible</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>2</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$91,734</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='fuzzed'><div class='bar' style='left:74px;width:100px'> <div class='lowValue'><span class='minor notranslate'>$59k</span></div> <div class='highValue'><span class='minor notranslate'>$124k</span></div> <div class='meanValue' style='left:49px'></div> </div></div></div> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/Bullhorn-Data-Engineer-Salaries-E155930_D_KO9,22.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/Bullhorn-Salaries-E155930.htm"><tt class='i-emp'>Bullhorn</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>2</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$80,336</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='fuzzed'><div class='bar' style='left:102px;width:9px'> <div class='lowValue'><span class='minor notranslate'>$77k</span></div> <div class='highValue'><span class='minor notranslate'>$83k</span></div> <div class='meanValue' style='left:4px'></div> </div></div></div> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/Demandbase-Data-Engineer-Salaries-E271272_D_KO11,24.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/Demandbase-Salaries-E271272.htm"><tt class='i-emp'>Demandbase</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>2</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$110,686</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='fuzzed'><div class='bar' style='left:147px;width:13px'> <div class='lowValue'><span class='minor notranslate'>$106k</span></div> <div class='highValue'><span class='minor notranslate'>$115k</span></div> <div class='meanValue' style='left:5px'></div> </div></div></div> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/PJM-Interconnection-Data-Engineer-Salaries-E16691_D_KO20,33.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/PJM-Interconnection-Salaries-E16691.htm"><tt class='i-emp'>PJM Interconnection</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>2</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$92,442</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='fuzzed'><div class='bar' style='left:117px;width:16px'> <div class='lowValue'><span class='minor notranslate'>$87k</span></div> <div class='highValue'><span class='minor notranslate'>$98k</span></div> <div class='meanValue' style='left:7px'></div> </div></div></div> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/InfoTrust-Group-Data-Engineer-Salaries-E240714_D_KO16,29.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/InfoTrust-Group-Salaries-E240714.htm"><tt class='i-emp'>InfoTrust Group</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>2</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$66,937</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='fuzzed'><div class='bar' style='left:75px;width:23px'> <div class='lowValue'><span class='minor notranslate'>$59k</span></div> <div class='highValue'><span class='minor notranslate'>$74k</span></div> <div class='meanValue' style='left:10px'></div> </div></div></div> </div> </td> </tr> </tbody> <tr class='dataRow first'> <td class='occ'><p><a href='/Salary/Customer-Portfolios-Data-Engineer-Salaries-E262971_D_KO20,33.htm'><strong><tt class='i-occ'>Data Engineer </tt></strong></a> &ndash; <a href="/Salary/Customer-Portfolios-Salaries-E262971.htm"><tt class='i-emp'>Customer Portfolios</tt></a></a></p> <p class='rowCounts'><tt class='notranslate'>2</tt> Salaries</p> </td> <td class='mean'><span class='minor'><tt class='notranslate'>$71,940</tt></span></td> <td class='salaryGraph'> <div class='relativeBar' style='width: 285px;'> <div class='barWrapper'> <div class='fuzzed'><div class='bar' style='left:90px;width:8px'> <div class='lowValue'><span class='minor notranslate'>$69k</span></div> <div class='highValue'><span class='minor notranslate'>$74k</span></div> <div class='meanValue' style='left:3px'></div> </div></div></div> </div> </td> </tr> </tbody> <tr class='footer'> <td class='occ' style='width:77860px;'><span class='minor'>Salaries in <tt class='i-cur'>USD</tt></span> &nbsp;<img src='http://static.glassdoor.com/static/img/flags/retina/US.png?v=1dd664z9' alt='United States' class='flag notranslate_alt'/></td> <td class='mean' style='width: 65px;'><span class='minor'></span></td> <td class='ticks' style='width: 285px;'><div class='relativeBar' style='width: 285px;'> <div class='tickMark' style='left:45px;'></div> <div class='tickVal' style='left:23px;'><span class='minor notranslate'>$40k</span></div><div class='tickMark' style='left:121px;'></div> <div class='tickVal' style='left:99px;'><span class='minor notranslate'>$90k</span></div><div class='tickMark' style='left:198px;'></div> <div class='tickVal' style='left:176px;'><span class='minor notranslate'>$140k</span></div></div></td> </tr> </table> </div> <div class='clear'></div> <div class='chartFooter'> <div id='FooterPageNav' class='pagedResultNavBar'> <div class='pagingControls centered'> <ul> <li class='prevBtn'> <span class='disabled'>&laquo;</span> </li> <li class='currPage notranslate'><span class='disabled'>1</span></li> <li class="notranslate"><a href="/Salaries/data-engineer-salaries-SRCH_KO0,13_IP2.htm">2</a> </li> <li class="notranslate"><a href="/Salaries/data-engineer-pay-SRCH_KO0,13_IP3.htm">3</a> </li> <li class="notranslate"><a href="/Salaries/data-engineer-wages-SRCH_KO0,13_IP4.htm">4</a> </li> <li class="notranslate"><a href="/Salaries/average-data-engineer-salary-SRCH_KO8,21_IP5.htm">5</a> </li> <li class='seqBreak'> <span class='disabled'>&hellip;</span> </li> <li class='nextBtn'><a href="/Salaries/data-engineer-salaries-SRCH_KO0,13_IP2.htm">&raquo;</a> </li> </ul> </div> <div class='clear'></div> </div><div class='clear'></div> <div class="salaryChartLegend "> <div class='key'> <p class='first minor'><strong>Key:</strong></p> <div class='range'></div> <p class='minor'>= Salary Range</p> <div class='anonRange'></div> <p class='minor'> = Anonymous Salary Range <span class='contextHelpLink'>[<span href='#AnonRangeDescription' constrainTo='#PageContent .mainCol'>?</span>]</span> </p> <div class='mean'></div> <p class='minor'> = Average &#32; Salary</p> </div> <div class='clear'></div> <p class='minor'> <strong>Note:</strong> &nbsp; Salary may vary based on location, years of experience, and/or other factors. </p> </div> <div id='AnonRangeDescription' class='hidden'> If we only have one or two salaries posted for for a given job title, showing that salary information may risk employee anonymity. So in that case we generate an anonymous salary range by adding and subtracting a small percentage from the posted salary. The small percentage difference offers additional anonymity while still minimizing the difference between the range and the employee's actual salary. </div> <script>
+		$(function() {
+				GD.aug.initContextHelp();
+			 });
+	</script> <span id='ShareWidgetLink' class='embedPopupLink embed ' data-builder-url='http://www.glassdoor.com/api/widget/builder/searchSalary.htm?sc.jobTitle=Data+Engineer' data-link-type='Salary' data-page-url='http://www.glassdoor.com/Salaries/data-engineer-salary-SRCH_KO0,13.htm' data-section='SALARIES'> <i></i> <span class='minor link'>Embed</span> </span> <script data-desc='embedLink.tag'>
+		/* <![CDATA[ */
+		GD.shareContent.initEmbedLinks();
+		/* ]]> */
+	</script> <div class='clear'></div> </div> <div class='refineResults'> <p class='tightBot listHdr'> <strong>More Salaries:</strong> </p> <ul class='linkList'> <li> <a href='/Salaries/seattle-data-engineer-salary-SRCH_IL.0,7_IM781_KO8,21.htm'> <tt class='i-occ'>Data Engineer</tt> salaries in <tt class='i-loc'>Seattle, WA</tt></a> </li> <li> <a href='/Salaries/san-francisco-data-engineer-salary-SRCH_IL.0,13_IM759_KO14,27.htm'> <tt class='i-occ'>Data Engineer</tt> salaries in <tt class='i-loc'>San Francisco, CA</tt></a> </li> <li> <a href='/Salaries/houston-data-engineer-salary-SRCH_IL.0,7_IM394_KO8,21.htm'> <tt class='i-occ'>Data Engineer</tt> salaries in <tt class='i-loc'>Houston, TX</tt></a> </li> <li> <a href='/Salaries/palo-alto-data-engineer-salary-SRCH_IL.0,9_IC1147434_KO10,23.htm'> <tt class='i-occ'>Data Engineer</tt> salaries in <tt class='i-loc'>Palo Alto, CA</tt></a> </li> <li> <a href='/Salaries/charlotte-data-engineer-salary-SRCH_IL.0,9_IM162_KO10,23.htm'> <tt class='i-occ'>Data Engineer</tt> salaries in <tt class='i-loc'>Charlotte, NC</tt></a> </li> </ul> <div class='clear'></div> </div> <div class='refineResults'> <p class='tightBot listHdr'> <strong>Also try:</strong> </p> <ul class='linkList column'> <li> <a href='/Salaries/data-warehouse-engineer-salary-SRCH_KO0,23.htm'><tt class='i-emp'> Data Warehouse Engineer</tt></a> </li> <li> <a href='/Salaries/data-engineer-ii-salary-SRCH_KO0,16.htm'><tt class='i-emp'> Data Engineer II</tt></a> </li> <li> <a href='/Salaries/data-warehouse-systems-engineer-salary-SRCH_KO0,31.htm'><tt class='i-emp'> Data Warehouse Systems Engineer</tt></a> </li> <li> <a href='/Salaries/senior-data-warehouse-engineer-salary-SRCH_KO0,30.htm'><tt class='i-emp'> Senior Data Warehouse Engineer</tt></a> </li> </ul> <ul class="linkList column"> <li> <a href='/Salaries/data-warehousing-engineer-salary-SRCH_KO0,25.htm'><tt class='i-emp'> Data Warehousing Engineer</tt></a> </li> <li> <a href='/Salaries/data-network-engineer-salary-SRCH_KO0,21.htm'><tt class='i-emp'> Data Network Engineer</tt></a> </li> <li> <a href='/Salaries/electronic-data-interchange-engineer-salary-SRCH_KO0,36.htm'><tt class='i-emp'> Electronic Data Interchange Engineer</tt></a> </li> <li> <a href='/Salaries/seismic-data-processing-engineer-salary-SRCH_KO0,32.htm'><tt class='i-emp'> Seismic Data Processing Engineer</tt></a> </li> </ul> <ul class="linkList lastColumn"> <li> <a href='/Salaries/senior-data-engineer-salary-SRCH_KO0,20.htm'><tt class='i-emp'> Senior Data Engineer</tt></a> </li> <li> <a href='/Salaries/data-center-engineer-salary-SRCH_KO0,20.htm'><tt class='i-emp'> Data Center Engineer</tt></a> </li> <li> <a href='/Salaries/software-data-engineer-salary-SRCH_KO0,22.htm'><tt class='i-emp'> Software Data Engineer</tt></a> </li> </ul> <div class='clear'></div> </div> <div class='adSlotContainer'> <div id="adcontainer1"></div> <script src="http://www.google.com/adsense/search/ads.js"></script> <script charset="utf-8">
+						var pageOptions = {
+						  'pubId': 'pub-4602098854390349',
+						  'query': "Data Engineer salaries",
+						  'channel': '0641790025+0102551731',
+						  'hl': 'en'
+						};
+
+						var adblock1 = {
+						  'container': 'adcontainer1',
+						  'number': '4',
+						  'width': '625px',
+						  'colorTitleLink': '0066CC',
+						  'colorText': '333333',
+						  'colorDomainLink': '007600'
+						};
+
+						
+								var adblock2 = {
+								  'container': 'adcontainer2',
+								  'number': '3',
+								  'width': '300px',
+								  'colorTitleLink': '0066CC',
+								  'colorText': '333333',
+								  'colorDomainLink': '007600'
+								};
+								new google.ads.search.Ads(pageOptions, adblock1, adblock2);
+							</script> </div> </div> <div id='ZCol' class='zCol'> <div class='adSlotContainer'> <div id='div-AdSlot-hwnrlpkh' style='width: 300px; height:250px;' class='adSlot '> <script type='text/x-deferred-js'>
+						/* <![CDATA[ */
+						
+								googletag.cmd.push(function() {
+									googletag.display('div-AdSlot-hwnrlpkh');
+								});
+							
+						/* ]]> */
+					</script> </div> </div> <div class='featuredJobsAdSlot adSlot-search-salaries-lf-right-holder'> </div> <div class='hidden'> <input type='hidden' id='ImplicitLocName' value='Seattle, WA'/> <input type='hidden' id='ImplicitLocId' value='1150505'/> <input type='hidden' id='ImplicitLocType' value='C'/> </div> <div id='SeoSalariesByJob' class='bucket mostPopular cf'> <h3 class='section bucketTitle'> <strong>Salaries by Job</strong> </h3> <div class='bucketBody cf'> <ul class='linkList'> <li> <a href='/Salaries/software-engineer-salary-SRCH_KO0,17.htm' data-ajax='false'><tt class='i-occ'>Software Engineer</tt>&#32;Salary</a> </li> <li> <a href='/Salaries/manager-salary-SRCH_KO0,7.htm' data-ajax='false'><tt class='i-occ'>Manager</tt>&#32;Salary</a> </li> <li> <a href='/Salaries/project-manager-salary-SRCH_KO0,15.htm' data-ajax='false'><tt class='i-occ'>Project Manager</tt>&#32;Salary</a> </li> <li> <a href='/Salaries/senior-software-engineer-salary-SRCH_KO0,24.htm' data-ajax='false'><tt class='i-occ'>Senior Software Engineer</tt>&#32;Salary</a> </li> <li> <a href='/Salaries/consultant-salary-SRCH_KO0,10.htm' data-ajax='false'><tt class='i-occ'>Consultant</tt>&#32;Salary</a> </li> <li> <a href='/Salaries/senior-consultant-salary-SRCH_KO0,17.htm' data-ajax='false'><tt class='i-occ'>Senior Consultant</tt>&#32;Salary</a> </li> <li> <a href='/Salaries/analyst-salary-SRCH_KO0,7.htm' data-ajax='false'><tt class='i-occ'>Analyst</tt>&#32;Salary</a> </li> <li> <a href='/Salaries/associate-salary-SRCH_KO0,9.htm' data-ajax='false'><tt class='i-occ'>Associate</tt>&#32;Salary</a> </li> <li> <a href='/Salaries/director-salary-SRCH_KO0,8.htm' data-ajax='false'><tt class='i-occ'>Director</tt>&#32;Salary</a> </li> <li> <a href='/Salaries/intern-salary-SRCH_KO0,6.htm' data-ajax='false'><tt class='i-occ'>Intern</tt>&#32;Salary</a> </li> <li> <a href='/Salaries/engineer-salary-SRCH_KO0,8.htm' data-ajax='false'><tt class='i-occ'>Engineer</tt>&#32;Salary</a> </li> <li> <a href='/Salaries/business-analyst-salary-SRCH_KO0,16.htm' data-ajax='false'><tt class='i-occ'>Business Analyst</tt>&#32;Salary</a> </li> <li> <a href='/Salaries/vice-president-salary-SRCH_KO0,14.htm' data-ajax='false'><tt class='i-occ'>Vice President</tt>&#32;Salary</a> </li> <li> <a href='/Salaries/product-manager-salary-SRCH_KO0,15.htm' data-ajax='false'><tt class='i-occ'>Product Manager</tt>&#32;Salary</a> </li> <li> <a href='/Salaries/program-manager-salary-SRCH_KO0,15.htm' data-ajax='false'><tt class='i-occ'>Program Manager</tt>&#32;Salary</a> </li> </ul> </div> </div> <div id='SeoJobsByTitle' class='bucket mostPopular cf'> <h3 class='section bucketTitle'> <strong>Jobs by Title</strong> </h3> <div class='bucketBody cf'> <ul class='linkList'> <li> <a href='/Job/software-engineer-jobs-SRCH_KO0,17.htm' data-ajax='false'><tt class='i-occ'>Software Engineer</tt>&#32;Jobs</a> </li> <li> <a href='/Job/manager-jobs-SRCH_KO0,7.htm' data-ajax='false'><tt class='i-occ'>Manager</tt>&#32;Jobs</a> </li> <li> <a href='/Job/project-manager-jobs-SRCH_KO0,15.htm' data-ajax='false'><tt class='i-occ'>Project Manager</tt>&#32;Jobs</a> </li> <li> <a href='/Job/senior-software-engineer-jobs-SRCH_KO0,24.htm' data-ajax='false'><tt class='i-occ'>Senior Software Engineer</tt>&#32;Jobs</a> </li> <li> <a href='/Job/consultant-jobs-SRCH_KO0,10.htm' data-ajax='false'><tt class='i-occ'>Consultant</tt>&#32;Jobs</a> </li> <li> <a href='/Job/senior-consultant-jobs-SRCH_KO0,17.htm' data-ajax='false'><tt class='i-occ'>Senior Consultant</tt>&#32;Jobs</a> </li> <li> <a href='/Job/analyst-jobs-SRCH_KO0,7.htm' data-ajax='false'><tt class='i-occ'>Analyst</tt>&#32;Jobs</a> </li> <li> <a href='/Job/associate-jobs-SRCH_KO0,9.htm' data-ajax='false'><tt class='i-occ'>Associate</tt>&#32;Jobs</a> </li> <li> <a href='/Job/director-jobs-SRCH_KO0,8.htm' data-ajax='false'><tt class='i-occ'>Director</tt>&#32;Jobs</a> </li> <li> <a href='/Job/intern-jobs-SRCH_KO0,6.htm' data-ajax='false'><tt class='i-occ'>Intern</tt>&#32;Jobs</a> </li> <li> <a href='/Job/engineer-jobs-SRCH_KO0,8.htm' data-ajax='false'><tt class='i-occ'>Engineer</tt>&#32;Jobs</a> </li> <li> <a href='/Job/business-analyst-jobs-SRCH_KO0,16.htm' data-ajax='false'><tt class='i-occ'>Business Analyst</tt>&#32;Jobs</a> </li> <li> <a href='/Job/vice-president-jobs-SRCH_KO0,14.htm' data-ajax='false'><tt class='i-occ'>Vice President</tt>&#32;Jobs</a> </li> <li> <a href='/Job/product-manager-jobs-SRCH_KO0,15.htm' data-ajax='false'><tt class='i-occ'>Product Manager</tt>&#32;Jobs</a> </li> <li> <a href='/Job/program-manager-jobs-SRCH_KO0,15.htm' data-ajax='false'><tt class='i-occ'>Program Manager</tt>&#32;Jobs</a> </li> </ul> </div> </div> <div class='mostPopular relatedLinks cf' id='SrchRelatedLinks'> <h3 class="section"> <strong>Additional Resources</strong> </h3> <ul class="linkList"><li><a href='/Salaries/index.htm' class='tapTarget' data-ajax='false'>Salaries</a></li> <li><a href='/Job/data-engineer-jobs-SRCH_KO0,13.htm' class='tapTarget'><tt class='i-emp'>Data Engineer</tt>&#32;Jobs</a></li></ul> <div class='clear'></div> </div> <div id='div-AdSlot-hwnrlpki' style='width: 300px; height:250px;' class='adSlot bottomAd'> <script type='text/x-deferred-js'>
+						/* <![CDATA[ */
+						
+								googletag.cmd.push(function() {
+									googletag.display('div-AdSlot-hwnrlpki');
+								});
+							
+						/* ]]> */
+					</script> </div> </div> </div> </div> </div> <script src='https://www.google.com/adsense/search/ads.js' type='text/javascript></script> <script charset='utf-8'>
+		/* <![CDATA[ */
+//		GD.runAfterLoad(function() {
+			if (GD.ads.hasAfsSlots()) {
+				GD.ads.loadAllAfsAds("Data Engineer", "0641790025+0102551731",
+									false,
+										"pub-4602098854390349");
+			}
+//		});
+		/* ]]> */
+	</script> <div id='MemberOnlyFeature' class='memberOnlyFeaturePopup promoBox hidden' onclick='return GD.event.stopEventPropagation(event);'> Sorry, you need an account to use this feature. <a class='fbSigninBtnLink '>Sign In with Facebook</a> or <a href='/profile/joinNow_input.htm' onclick="GD.dom.loadUrl('/profile/joinNow_input.htm?u=%2FSalaries%2Fdata-engineer-salary-SRCH_KO0%2C13.htm');return false;">Sign Up</a> <div id='MemberOnlyFeatureCloseBox' class='closeBox' onclick="GD.effects.showPopup('#MemberOnlyFeature', {display:false});return true;"></div> </div> <script>
+	/* <![CDATA[ */
+	GD.runOnFacebookLoad(function() {
+								GD.fb.initLoginButtons(GD.fb.requestedPerms,
+														'/profile/createSocialNetworkAccount.htm',
+														GD.dom.getDocUrl());
+							});
+	/* ]]> */
+</script><div class='jobAlertRecommendedTitles fill hidden'> <div class='jaMessage successBox margBot20 strong'>Your job alert has been created.</div> <h3>Create more job alerts for related jobs <span class='jaLocation'></span> with one click:</h3> <div class='jobTitleTiles margTop15'></div> <div class='clear'></div> <div class='jaTileSrc jaTitle hidden'> <div class='cell cellContents'> <i class='status plus'></i> <span class='jobTitle'></span> </div> </div> <a href='#' class='gd-btn gd-btn-link gradient gd-btn-1 gd-btn-med cf closeBtn margVert20 floatRt'><span>Close</span></a> <div class='clear'></div> </div><div class='dialogBody hidden jobAlertDlgBody jobAlertDlgSrc jobAlertDlgEditable tightBotPad tightBotMarg'> <div class='heading linedHeading h2 strong'>Be the first to get salary and job alerts</div> <span class='subHeading'></span> <div class='dialogContent margTop15'> <form name='createJobAlertForm' class='cf'> <div id='CompletedAction' class='closeable ajaxResult'> <p class='headline'></p> <div class='clear'></div> </div> <div class='formContents'> <label>For</label> <div class='value jobAlertKeyWrapper'> <span class="phrase"></span> <span class='link margLt10'>edit</span> <input type='text' name='keyword' class='std job-alert-keyword required jobAlertKeyword floatLt margRt10' maxlength="200" value=""> </div> <div class='clear'></div> <div class='jobAlertLocWrapper hidden margTop15'> <label>In</label> <div class='value jobAlertLocWrapper'> <input type='text' name='location' class='std job-alert-location required jobAlertLocation floatLt margRt10' maxlength="200" value=""> </div> <div class='clear'></div> </div> <div class='jobAlertEmailWrapper margTop15'> <label>To</label> <div class='value'> <input type='text' name='emailAddress' class='std job-alert-email required jobAlertUserEmail floatLt margRt10' value='' maxlength="200"> </div> <div class='clear'></div> </div> <input type='hidden' name='jobSearchUrl' value='' class='jobAlertUrl'> <input type='hidden' name='keywords' value='' class='jobAlertKey'> <input type='hidden' name='rawLocationName' value='' class='jobAlertLoc'> <input type='hidden' name='locationId' value='' class='jobAlertLocId'> <input type='hidden' name='locationType' value='' class='jobAlertLocType'> <div class='clear'></div> <div class='ajaxStatus'> <img src='http://static.glassdoor.com/static/img/spinners/round-gray-16-transparent.gif?v=86bb92g7' class='spinner'/> <span class='subtle'>Creating</span> </div> </div> </form> <div class='gotoYourEmailWrapper cf hidden margTop10'> <div class='gd-btn-wrapper gd-btn-float-left'> <button type='submit' class='gotoYourEmail hidden gd-btn gd-btn-submit gd-btn-1 gd-btn-med gradient'> <span>Goto your Email</span></button> <div class='clear'></div> </div> </div> <div class='clear'></div> <div class='dialogFooter coloredFooter margTop15 minor alignRight'> <button type='' class='notRightNow margRt15 gd-btn gd-btn- gd-btn-2 gd-btn-med gradient'> <span>Not Right Now</span></button> <button type='submit' data-source="SALARY_SRCH_SPLASH" class='createJobAlert gd-btn gd-btn-submit gd-btn-1 gd-btn-med gradient'> <span>Create Alert</span></button> </div> </div> </div> <script>
+		/* <![CDATA[ */
+		GD.runAfterBody(function() {
+			GD.srch.initSalaries();
+			GD.ga.trackPageTypeLevelOne("Search");
+			GD.ga.trackPageTypeLevelTwo("Salaries");
+			GD.ga.trackSearchType("O");
+			GD.ga.trackRawSearchKeywords($("[name='sc.keyword']").val());
+			GD.ga.trackRawSearchLocation($('#SiteSrchTop input.loc').val());
+			GD.ga.trackLashedEmployer("");
+			GD.ga.trackLashedOccupation("Data Engineer");
+			GD.ga.trackLashedLocation("");
+			GD.ga.trackPageNumber("1");
+			GD.ga.trackTotalResults("626");
+			GD.ga.trackDisplayedResults("1", "20");
+			GD.ga.trackHiddenSalaries($('div.redacted > span.minor').length - 1);
+			GD.ga.trackAnonymizedSalaries($('div.fuzzed').length);
+			//GD.ga.trackPageState("true", "false", "false");
+		});
+
+		
+		/* ]]> */
+	</script></div> <div id='InterstitialDisplay' class='hidden interstitial'><i class='spinner'></i> <p class='message'>Loading&hellip;</p> </div> </div> <div id='SiteSrchBottom' class='siteSrchBar hideHH bar'> <form action='/GD/Salaries/company-salaries.htm' method='get' target='_top' class='siteSrchForm' data-allow-postal-codes='false' data-pick-best-match='true'> <input type='hidden' name='suggestCount' class='suggestCount' value='0'/> <input type='hidden' name='suggestChosen' class='suggestChosen' value='false'/> <input type='hidden' name='clickSource' value='searchBtn'/> <input type='hidden' name='typedKeyword' class='typedKey' value=""/> <span class='bkgnd gradient contents'> <div class='selWrapper arrow'> <select id='SrchSelectBottom' class='url std select gradient med'> <option value='/Job/jobs.htm' data-placeholder='Job Title, Keywords, or Company' data-zipcodes-ok='true' data-subtitle=""> Jobs</option> <option value='/GD/Reviews/company-reviews.htm' data-placeholder='Company Name' data-zipcodes-ok='false' data-subtitle=""> Companies</option> <option value='/GD/Salaries/company-salaries.htm' selected='selected' data-placeholder='Job Title or Company' data-zipcodes-ok='false' data-subtitle=""> Salaries</option> <option value='/GD/Interview/job-interview-questions.htm' data-placeholder='Job Title or Company' data-zipcodes-ok='false' data-subtitle=""> Interviews</option> </select> </div> <input type='text' class='std keyword med gradient' name='sc.keyword' value='data engineer' placeholder='Job Title or Company'/> <span class='locPosPt posPt'></span> <input type='text' value='' data-srch-type='popular' class='std loc med gradient' placeholder='Location'/> <input type='hidden' class='locType' name='locT' value=''/> <input type='hidden' class='locId' name='locId' value=''/> <button type='submit' data-btn-id='' class=' gd-btn gd-btn-submit gd-btn-2 gd-btn-med gradient'> <span>Search</span></button> </span> </form> </div> <script data-desc='siteSrch.jspf'>
+			/* <![CDATA[ */
+			$(function() {
+				
+				
+					GD.site.initSrchAC("SALARY");
+				
+
+				GD.site.initSiteSearch(null, false, true);
+			});
+			/* ]]> */
+		</script> </div> </div> <div id='PageBot' class="" data-role='footer'> <div class='contents'> <div id='EmpSolutionsTab'> <a href='http://www.glassdoor.com/employers/' class='SL_norewrite' rel='nofollow'> <span>Work in HR or Recruiting?</span> </a> </div> <nav> <ul> <li> <a href='/about/index_input.htm' target='_top' rel='nofollow'>About Us</a> </li> <li class='SL_norewrite'> <a href='http://www.glassdoor.com/employers/' target='_top'>Employers</a> </li> <li class='SL_norewrite'> <a href='http://www.glassdoor.com/about/careers.htm' target='_top' rel='nofollow'>Careers</a> </li> <li> <a href='/api/index.htm' target='_top'>API</a> </li> <li> <a href='/about/contact_input.htm' target='_top' rel='nofollow'>Feedback</a> </li> <li> <a href='/about/faq.htm' target='_top' rel='nofollow' rel='nofollow'>Help</a> </li> <li> <a href='/partners/post-a-job/index.htm?src=gdfoot' target='_top' rel='nofollow'>Post a Job</a> </li> </ul> </nav> <p class='footerText '> Glassdoor is your free inside look at Data Engineer salary details - including average salary, bonus, and total pay. All 1,214 salaries posted anonymously by employees.</p> <div class='hr'><hr/></div> <div class='browseLinks'> <div class='title listHdr'> Browse<span class='nonMobile'>:</span> </div> <ul class='linkList'> <li class='newLine'> <a href='/site-directory/job-salaries.htm' target='_top' data-ajax='false'>Salaries by Job</a> </li> <li> <a href='/site-directory/company-salaries.htm' target='_top' data-ajax='false'>Salaries by Company</a> </li> <li class='endLine'> <a href='/site-directory/city-salaries.htm' target='_top' data-ajax='false'>Salaries by City</a> </li> <li class='newLine'> <a href='/site-directory/company-reviews.htm' target='_top' data-ajax='false'>Reviews by Company</a> </li> <li class='endLine'> <a href='/site-directory/job-interviews.htm' target='_top' data-ajax='false'>Interview Questions by Job</a> </li> <li class='newLine endLine'> <a href='/site-directory/company-interviews.htm' target='_top' data-ajax='false'>Interviews by Company</a> </li> <li class='newLine'> <a href='/site-directory/title-jobs.htm' target='_top' data-ajax='false'>Jobs by Title</a> </li> <li> <a href='/site-directory/company-jobs.htm' target='_top' data-ajax='false'>Jobs by Company</a> </li> <li class='endLine'> <a href='/site-directory/city-jobs.htm' target='_top' data-ajax='false'>Jobs by City</a> </li> </ul> </div> <p class='copyright minor'> Copyright &copy; 2008&ndash;2014, Glassdoor. All Rights Reserved. Your use of this service is subject to our <a href='/about/terms.htm' target='_blank' rel='nofollow'>Terms of Use</a> and <a href='/about/privacy.htm' target='_blank' rel='nofollow'>Privacy & Cookies Policy</a>. Glassdoor &reg; is a registered trademark of Glassdoor, Inc. </p> </div> </div> <div id='UserAlertDrawer' class="hidden"> <div id='AccessNotPostedDrawer' class='drawerContents'> <div class='drawerBody'> <h2 class='tightTop'> <strong>Give other employees and job seekers your view from the inside</strong> </h2> <p> Simply post an anonymous salary for a current or former employer. Your post is anonymous &ndash; and if you're worried someone will be able to identify your salary, you can even post without telling us your employer (and it will not be displayed on the site). <a href='/about/learn.htm'>Learn More</a>. </p> </div> <div class='actions'> <a href='/survey/start_input.htm?showSurvey=SALARIES' id='DrawerBigButton' class='gd-btn gd-btn-link gradient gd-btn-1 gd-btn-lg '><span>Post a Salary</span></a> <p class='subtle'> No thanks &ndash; <span class='closeDrawer link'>I'll just look around</span> </p> </div> <div class='clear'></div> </div> </div> <script>
+		/* <![CDATA[ */
+		/*
+		 * Augment any javascript handlers for this page.
+		 */
+		$(function() {
+				GD.userAlert.enable(false);
+			});
+
+		
+		/* ]]> */
+	</script> <div class='loginDlgBody dialogBody offScreen loginDlgSource'> <span class='subHeading'></span> <div class='dialogContent cf'> <div class='gdLoginModule gdSignInOption center padBot20' id='SignInModuleCloneable' data-ajax='true' data-redirect-url=''> <div class='signInTabs'> <ul> <li><a href='#gd-popup-create-account' class='login-signup'>Create Account</a></li> <li><a href='#gd-popup-sign-in' class='login-signin'>Sign In</a></li> </ul> <div class='create-account-tab hidden'> <h2 class='signInheading'></h2> <div class='caSubHeading'></div> <div class='gplusSignInOption'> <div class='gplusWrapper ' data-google-app-id='141714232794-qge31mosqrsq615gsibktvc2eeenscnv.apps.googleusercontent.com'> <div id='LoginModule-GPlusBtnSignUp' class='tbl med gplusBtn' data-user-origin-hook="NOT_IDENTIFIED" data-ajax-login="false" data-onloginurl="/profile/createSocialNetworkAccount.htm" data-postloginurl=""> <i class='gplusIcon middle cell'></i> <span class='middle strong cell gplusBtnLabel'>Sign Up with Google</span> </div> </div> </div> <div class='fbSignInOption'> <div class='fbSigninCTAWrapper tbl fill'> <div class='fbSigninBtn cell lg'> <span class='fbSigninBtnLink' data-onloginurl="/profile/ajax/createSocialNetworkAccountAjax.htm" data-postloginurl=""> <div class='btnFill'> <span class='btnIcon floatLt'><span class='btnLogoWrapper'><i></i></span></span> <span class='btnLabel strong'>Sign Up with Facebook</span> </div> </span> </div><div class="clear"></div> <p id='FacebookPrivacyNote'> <i class='asterisk'></i> <span class='text'>Everything you view and do on Glassdoor is private.</span> </p> </div> </div> <div class='clear'></div> <div class='hr textCenter'><hr/><span class='center'>Or</span></div> <form name='signUpForm' class='signUpForm'> <div class='clear'></div> <div id='CompletedAction' class='closeable ajaxResult'> <p class='headline'> <i class='error'></i> <span></span> </p> <i class='closeBox'></i> <div class='clear'></div> </div> <div class='value emailWrapper'> <input type='text' name='email' placeholder='Email Address' class='signup-email std med'/> </div> <div class='value passWrapper'> <input type='password' name='password' class='signup-password std med' placeholder='Password'/> </div> <!-- <div class='value confirmPassWrapper'> <input type='password' name='passwordConfirm' class='signup-vpassword std sm' placeholder='Verify Password'/> </div> --> <div class='value'> <button type='button' class='loginDlgSignUpBtn gd-btn gd-btn-button gd-btn-3 gd-btn-med gradient'> <span>Sign Up</span></button> </div> <p class='terms'> By creating an account, you agree to Glassdoor's <br/><a href="/about/terms.htm" target="_blank"><u>Terms of Use</u></a> and <a href="/about/privacy.htm" target="_blank"><u>Privacy Policy</u></a>. </p> </form> </div> <div class='sign-in-tab'> <h2 class='signInheading'></h2> <div class='gplusSignInOption'> <div class='gplusWrapper ' data-google-app-id='141714232794-qge31mosqrsq615gsibktvc2eeenscnv.apps.googleusercontent.com'> <div id='LoginModule-GPlusBtnSignIn' class='tbl med gplusBtn' data-user-origin-hook="NOT_IDENTIFIED" data-ajax-login="false" data-onloginurl="/profile/createSocialNetworkAccount.htm" data-postloginurl=""> <i class='gplusIcon middle cell'></i> <span class='middle strong cell gplusBtnLabel'>Sign In with Google</span> </div> </div> </div> <div class='fbSignInOption'> <div class='fbSigninCTAWrapper tbl fill'> <div class='fbSigninBtn cell lg'> <span class='fbSigninBtnLink' data-onloginurl="/profile/ajax/createSocialNetworkAccountAjax.htm" data-postloginurl=""> <div class='btnFill'> <span class='btnIcon floatLt'><span class='btnLogoWrapper'><i></i></span></span> <span class='btnLabel strong'>Sign In with Facebook</span> </div> </span> </div><div class="clear"></div> <p id='FacebookPrivacyNote'> <i class='asterisk'></i> <span class='text'>Everything you view and do on Glassdoor is private.</span> </p> </div> </div> <div class='clear'></div> <div class='hr textCenter'><hr/><span class='center'>Or</span></div> <div class='clear'></div> <form name='signInForm' class='signInForm'> <div class='clear'></div> <div id='CompletedAction' class='closeable ajaxResult'> <p class='headline'> <i class='error'></i> <span></span> </p> <i class='closeBox'></i> <div class='clear'></div> </div> <div class='value emailWrapper'> <input type='text' name='username' placeholder='Email Address' class='signin-email std med'> </div> <span class='block-signin'> <div class='value passWrapper'> <input type='password' name='password' placeholder='Password' class='signin-password std med'/> </div> <span class='floatLt rememberMe'> <input type='checkbox' name='rememberMe' class='remember' checked='checked'/><label for='rememberMe'>Remember Me</label> </span> <span class='padTopXS link floatLt forgotPassword'> <a href='javascript:void(0)' class='forgot-password'>Forgot Password</a> </span> <div class='clear'></div> <div class='buttonGroup'> <button type='button' id='signInBtn' class='loginDlgSignInBtn gd-btn gd-btn-button gd-btn-3 gd-btn-med gradient'> <span>Sign In</span></button> </div> </span> <div class='clear'></div> <div class='block-forgot'> <div class='forgotMessage'>Please enter your email address and we will send you an email with instructions for resetting your password.</div> <div class='clear'></div> <div class='buttonGroup'> <button type='button' class='loginDlgResetBtn gd-btn gd-btn-button gd-btn-3 gd-btn-med gradient'> <span>Reset</span></button> <span class='padLt20 padTopXS link'> <a href='javascript:void(0)' class='back-to-signin'>Back to Sign In</a> </span> </div> </div> <div class='clear'></div> </form> </div> </div> <div class='clear'></div> <div class='ajaxStatus center middle'> <i class='loginSpinner'></i> <span></span> </div> </div> </div> </div><div class='hidden'> <script data-desc='initSiteSrchAdv.jspf'>
+	/* <![CDATA[ */
+	
+	$(function() {
+					var		siteSearchOptions;
+
+					siteSearchOptions =
+						{
+						
+							primarySearchType:		"SALARY",
+
+							searchSortOrder:		"JOBRELEVANCE",
+							searchSortAscending:	"false",
+
+							employer:				"",
+							jobTitle:				"Data Engineer",
+							tag:					"",
+
+							siteSrchAdvCountryId:	"",
+							siteSrchAdvCityName:	"",
+							siteSrchAdvCityId:		"",
+
+							hasSalaryAccess:		true
+						};
+					GD.site.initAdvSiteSearch(siteSearchOptions);
+		});
+	/* ]]> */
+</script> </div> <script data-desc='main.jspf'>
+			
+			GD.runAfterBody.run();
+		</script> <script>
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script> <div id="fb-root"></div> <script data-desc='facebook-api.jspf'>
+		/* <![CDATA[ */
+		GD.runAfterLoad(function() {
+							/*
+							 * start facebook from this tag
+							 */
+							GD.fb.init('129253937150340',
+											'http://www.glassdoor.com/crossDomain/facebookChannel.htm');
+						});
+		/* ]]> */
+	</script> <script>
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.appendChild(document.createTextNode("lang: en-US"));
+			po.src = '//platform.linkedin.com/in.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script> <script>
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.id = 'twitter-wjs';
+			po.src = '//platform.twitter.com/widgets.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script> <script>
+	var _qevents = _qevents || [];
+
+	GD.dom.loadScript((document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js",
+					function () {
+								_qevents.push( { qacct:"p-77hG-A4X4ka9Q"} );
+							});
+</script> <noscript> <div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-77hG-A4X4ka9Q.gif" height="1" width="1" alt="Quantcast"/></div> </noscript> <script data-desc='bizo-ad-manager.jspf'>
+		var		_bizo_data_partner_id = "273";
+
+		
+			var	_bizo_data_partner_title = 'RGF0YSBFbmdpbmVlcg==';
+		
+
+		GD.dom.loadScript((document.location.protocol == "https:" ? "https://sjs" : "http://js") +
+						  ".bizographics.com/convert_data.js?partner_id=" + _bizo_data_partner_id);
+	</script> <script>
+				/* <![CDATA[ */
+				GD.runAfterLoad(function() {
+										GD.dom.execDeferredScripts("text/x-deferred-js");
+									});
+				/* ]]> */
+			</script> </body></html>
